@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b7e8d692-0963-4d54-ae97-6f9c35ef2055" name="Default Changelist" comment="" />
+    <list default="true" id="b7e8d692-0963-4d54-ae97-6f9c35ef2055" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/com/learningkotlin/kolin/classes/Customers.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/learningkotlin/kolin/classes/Customer.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +16,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin File" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -111,7 +114,7 @@
       <workItem from="1584139718525" duration="597000" />
       <workItem from="1584176260146" duration="4544000" />
       <workItem from="1584181546684" duration="671000" />
-      <workItem from="1584216883076" duration="4315000" />
+      <workItem from="1584216883076" duration="4605000" />
     </task>
     <servers />
   </component>
