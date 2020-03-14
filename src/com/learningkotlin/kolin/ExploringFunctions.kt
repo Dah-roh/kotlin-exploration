@@ -13,6 +13,9 @@ fun main() {
     doSomeMaths(two = 5.0, one = 6.0)
 
 
+//using optional values in kotlin
+    fun addSomeOtherNumber(one: Int = 12, two: Int = 34) =
+    println("${one+two}")
 
-
+    addSomeOtherNumber(two = 13)
 }
