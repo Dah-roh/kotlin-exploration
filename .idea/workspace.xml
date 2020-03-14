@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b7e8d692-0963-4d54-ae97-6f9c35ef2055" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/learningkotlin/kolin/ExploringFunctions.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/learningkotlin/kolin/ExploringFunctions.kt" afterDir="false" />
-    </list>
+    <list default="true" id="b7e8d692-0963-4d54-ae97-6f9c35ef2055" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -114,7 +111,7 @@
       <workItem from="1584139718525" duration="597000" />
       <workItem from="1584176260146" duration="4544000" />
       <workItem from="1584181546684" duration="671000" />
-      <workItem from="1584216883076" duration="4063000" />
+      <workItem from="1584216883076" duration="4315000" />
     </task>
     <servers />
   </component>
