@@ -18,4 +18,18 @@ fun main() {
     println("${one+two}")
 
     addSomeOtherNumber(two = 13)
+
+//    creating a function within a function in kotlin
+    fun funWithinAnotherfunction(firstWord: String){
+
+    println(firstWord)
+    fun functionToPrintSecondWord(secondWord: String) {
+        println(secondWord)
+
+    }
+    functionToPrintSecondWord("Sister")
+}
+
+    funWithinAnotherfunction("Brother")
+
 }
