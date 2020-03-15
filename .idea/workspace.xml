@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="b7e8d692-0963-4d54-ae97-6f9c35ef2055" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kot/com/learningkotlin/kolin/classes/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kot/com/learningkotlin/kolin/classes/Customer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kot/com/learningkotlin/kolin/classes/CustomerKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kot/com/learningkotlin/kolin/classes/CustomerKt.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/learningkotlin/kolin/classes/Customer.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/learningkotlin/kolin/classes/Customer.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -130,7 +132,7 @@
       <workItem from="1584176260146" duration="4544000" />
       <workItem from="1584181546684" duration="671000" />
       <workItem from="1584216883076" duration="4605000" />
-      <workItem from="1584228507926" duration="2457000" />
+      <workItem from="1584228507926" duration="5305000" />
     </task>
     <servers />
   </component>
@@ -138,22 +140,26 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="914" height="251" key="GridCell.Tab.0.bottom" timestamp="1584231720678">
+    <state width="914" height="251" key="GridCell.Tab.0.bottom" timestamp="1584233743576">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="251" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1584231720678" />
-    <state width="914" height="251" key="GridCell.Tab.0.center" timestamp="1584231720678">
+    <state width="914" height="251" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1584233743576" />
+    <state width="914" height="251" key="GridCell.Tab.0.center" timestamp="1584233743576">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="251" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1584231720678" />
-    <state width="914" height="251" key="GridCell.Tab.0.left" timestamp="1584231720678">
+    <state width="914" height="251" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1584233743576" />
+    <state width="914" height="251" key="GridCell.Tab.0.left" timestamp="1584233743576">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="251" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1584231720678" />
-    <state width="914" height="251" key="GridCell.Tab.0.right" timestamp="1584231720678">
+    <state width="914" height="251" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1584233743576" />
+    <state width="914" height="251" key="GridCell.Tab.0.right" timestamp="1584233743576">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="251" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1584231720678" />
+    <state width="914" height="251" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1584233743576" />
+    <state x="685" y="101" key="new project wizard" timestamp="1584234441384">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="685" y="101" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1584234441384" />
     <state x="1181" y="160" key="refactoring.ChangeSignatureDialog" timestamp="1584230313283">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
