@@ -1,13 +1,29 @@
 package com.learningkotlin.kolin.classes
 
 class Customer {
-    val name: String = "Gadibia"
-    val address: String = "18 ijeoma Odika Street, lekki lagos"
-    val age: Int = 38
+    var name: String = ""
+    var address: String = ""
+    var age: Int = 0
+    constructor()
+constructor(name: String, address: String, age: Int) {
+    this.name = name
+    this.address = address
+    this.age = age
+}
+    constructor(name: String, age: Int): this(name, "", age) {
+        println("secondary constructor")
+    }
 
+    init {
+        println("init block")
+    }
 }
 
-class  Book {
-
-
+fun main () {
+    val customer = Customer()
+customer.age = 23
+    val secondCustomer = Customer("Gadibia", "18 ijeoma odika street", 78)
+    println("${customer.age} and ${secondCustomer.age}")
+    val secondaryConstructor = Customer("Oghentevwodaro", 80)
+    secondaryConstructor.age
 }
